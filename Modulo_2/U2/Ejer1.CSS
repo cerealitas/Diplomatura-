@@ -1,0 +1,42 @@
+#flexbox{
+	flex-direction: column;
+	position:fixed;
+	top:0;
+	right:0;
+	
+	
+}
+
+#rojo{
+	background-color:red;
+	width: 250px;
+	height: 250px;
+	font-size: 30px;
+	text-align: center;
+	margin: 0 auto;
+	color:white;
+	justify-content: center;
+	
+}
+
+#azul{
+	background-color:blue;
+	width: 250px;
+	height: 250px;
+	font-size: 30px;
+	text-align: center;
+	margin: 0 auto;
+	color:white;
+	justify-content: center;
+}
+
+#verde {
+	background-color:green;
+	width: 250px;
+	height: 250px;
+	font-size: 30px;
+	text-align: center;
+	margin: 0 auto;
+	color:white;
+	justify-content: center;
+}
